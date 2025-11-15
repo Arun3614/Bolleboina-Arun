@@ -1,0 +1,38 @@
+body{
+ background-image: url(penbg.jpg);
+ background-repeat: no-repeat;
+ background-size: 1350px 610px;
+}
+form{
+    margin-right: 100px;
+    padding-left: 20px;
+    width: 330px;
+}
+label{
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+}
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 30px;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+    border-radius: 30px;
+}
+button{
+    height: 50px;
+    width: 130px;
+    font-size: 22px;
+    border-radius: 20px;
+    background-color: rgba(0, 255, 213, 0.348);
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-style: inherit;
+    font-weight: bold;
+}
